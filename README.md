@@ -2,6 +2,8 @@
 
 ![Born2beroot](img/born2beroot.png)
 
+**[한국어 (Korean)](README_KR.md)**
+
 ## Introduction
 
 Born2beroot aims to introduce you to the world of virtualization and server administration.

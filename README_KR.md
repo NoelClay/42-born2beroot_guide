@@ -5,6 +5,8 @@
 > 이 문서는 [chlimous](https://github.com/chlimous)의 Born2beroot 가이드를 한국어로 번역한 것입니다.
 > Subject Version 5.2 기준으로 업데이트되었습니다.
 
+**[동료 평가 대비 가이드 (P2P Evaluation)](EVALUATION_KR.md)** — 이론 질문 + 실습 시연 훈련지
+
 ## 소개
 
 Born2beroot은 가상화(Virtualization)와 서버 관리(Server Administration)의 세계를 소개하는 프로젝트입니다.
